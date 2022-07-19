@@ -1,0 +1,7 @@
+name: WitherKiller
+version: '${project.version}'
+main: net.envirocraft.mc.witherkiller.Main
+api-version: 1.19
+commands:
+  witherkiller:
+    description: kills withers within 100 blocks
